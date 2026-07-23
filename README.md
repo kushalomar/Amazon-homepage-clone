@@ -5,8 +5,8 @@ Responsive Amazon homepage and sign-in page clone built using HTML ,CSS and Java
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](assets/Image/scrrenshots/homepage.png)
 
 ### Sign In Page
 
-![Sign In](screenshots/signin.png)
+![Sign In](assets/Image/screenshots/signin.png)
