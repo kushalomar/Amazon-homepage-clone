@@ -33,13 +33,13 @@ A responsive frontend clone of Amazon's homepage and sign-in page built using HT
 ## Project Structure
 
 Amazon-homepage-clone/
- assets/
-├── carousel.css
-├── index.html
-├── README.md
-├── signin.css
-├── signinform.html
-└── Style.css
+- assets/
+- carousel.css
+- index.html
+- README.md
+- signin.css
+- signinform.html
+- Style.css
 
 ## What I Learned
 
